@@ -2,7 +2,7 @@
 <html lang="pt-BR">
 <head>
   <meta charset="UTF-8">
-  <title>Meu site</title>
+  <title>Meu site 2</title>
 </head>
 <body>
     <?php echo "<h1>Olá, mundo!</h1>" ?>
